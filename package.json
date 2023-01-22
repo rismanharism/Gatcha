@@ -1,0 +1,14 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "description": "- Mengerti Cara Menggunakan `Switch-Case`\r - Mengerti Logika `Switch-Case`\r - Bisa menggunakan built in function Math dari Javascript\r ## Directions\r Dalam permainan gacha ini jika seorang anak menekan sebuah tombol maka permainan akan mengacak angka 1 - 5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
